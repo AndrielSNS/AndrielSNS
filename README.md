@@ -2,8 +2,8 @@
 
 estudo JavaScript no alura 💻
 
-![https://tenor.com/SlRz7E9OCF.gif]
-fonte do gif: https://tenor.com/SlRz7E9OCF.gif
+![](https://media1.tenor.com/m/CE0vaOjont8AAAAC/one-piece-one-piece-meme.gif)
+
 
 
 <!--
