@@ -3,6 +3,7 @@
 estudo JavaScript no alura 💻
 
 ![](https://media1.tenor.com/m/CE0vaOjont8AAAAC/one-piece-one-piece-meme.gif)
+fonte do gif: https://media1.tenor.com/m/CE0vaOjont8AAAAC/one-piece-one-piece-meme.gif
 
 
 
