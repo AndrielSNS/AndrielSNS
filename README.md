@@ -1,4 +1,10 @@
-## Hi there 👋
+## oi, meu nome é Andriel 😃
+
+estudo JavaScript no alura 💻
+
+![](https://tenor.com/SlRz7E9OCF.gif)
+fonte do gif: https://tenor.com/SlRz7E9OCF.gif
+
 
 <!--
 **AndrielSNS/AndrielSNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
