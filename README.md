@@ -2,7 +2,7 @@
 
 estudo JavaScript no alura 💻
 
-![](https://tenor.com/SlRz7E9OCF.gif)
+![https://tenor.com/SlRz7E9OCF.gif]
 fonte do gif: https://tenor.com/SlRz7E9OCF.gif
 
 
