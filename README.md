@@ -1,6 +1,7 @@
 ## oi, meu nome é Andriel 😃
 
-estudo JavaScript no alura 💻
+Estudo JavaScript no alura 💻 no JGV 🙂
+Meu email: 00001104106309sp@al.educacao.sp.gov.br 📩
 
 ![](https://media1.tenor.com/m/CE0vaOjont8AAAAC/one-piece-one-piece-meme.gif)
 fonte do gif: https://media1.tenor.com/m/CE0vaOjont8AAAAC/one-piece-one-piece-meme.gif
