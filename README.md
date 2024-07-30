@@ -1,7 +1,9 @@
 ## oi, meu nome é Andriel 😃
 
 Estudo JavaScript no alura 💻 
+
 Aluno JGV 🙂
+
 apenas iniciante
 
 
