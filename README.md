@@ -10,7 +10,7 @@ apenas iniciante
 Meu email para contato 📩: 
 00001104106309sp@al.educacao.sp.gov.br 
 
-![](https://media1.tenor.com/m/CE0vaOjont8AAAAC/one-piece-one-piece-meme.gif)
+
 
 
 
